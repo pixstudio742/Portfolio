@@ -1,0 +1,24 @@
+@media (max-width:360px) {
+    .name-text{
+        font-size: 3rem;
+    }
+    .resume-header{
+        font-size: 35px;
+        padding-top:15px;
+        padding-bottom: 15px;
+        padding-left: 10px;
+    }
+    .ques h3,
+    .ans h3{
+        font-size: 15px;
+        padding-left: 10px;
+    }
+    .header-sec{
+        padding-top: 35px;
+    }
+    .copy-right{
+        font-size: 12px;
+    }
+
+
+  }
